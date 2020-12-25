@@ -8,6 +8,8 @@
     "net": "babel-node ./src/NET/SERVER/index.js",
     "net-client": "babel-node ./src/NET/CLIENT/index.js",
     "cluster": "babel-node ./src/CLUSTER/index.js",
+    "udp": "babel-node ./src/UDP/SERVER/index.js",
+    "udp-client": "babel-node ./src/UDP/CLIENT/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
